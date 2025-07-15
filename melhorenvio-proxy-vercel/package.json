@@ -1,0 +1,9 @@
+{
+  "name": "melhorenvio-proxy-vercel",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
